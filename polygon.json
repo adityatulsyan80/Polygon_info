@@ -1,0 +1,22 @@
+{
+    "polygon": {
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "official_website": "https://polygon.technology/",
+      "whitepaper": "https://github.com/maticnetwork/whitepaper/",
+      "explorer": "https://explorer-mainnet.maticvigil.com/",
+      "github_repository": "https://github.com/maticnetwork/",
+      "community_events": "https://polygon.technology/events",
+      "social_media": {
+        "twitter" : "https://twitter.com/0xPolygon",
+        "telegram": "https://t.me/polygonofficial",
+        "discord" : "https://discord.com/invite/XvpHAxZ"
+      },
+      "coinmarketcap": "https://coinmarketcap.com/currencies/polygon/",
+      "profile_info": {
+        "price_info":"https://coinmarketcap.com/currencies/polygon/#Markets",
+        "news_info" :"https://coinmarketcap.com/currencies/polygon/#News",
+        "supported_wallets": "Ledger, Trust Wallet, MetaMask, Binance Chain Wallet, SolFlare, Backpack, Phantom"
+    }
+  }
+}
