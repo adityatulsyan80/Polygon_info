@@ -17,12 +17,13 @@
         "price_info":"https://coinmarketcap.com/currencies/polygon/#Markets",
         "news_info" :"https://coinmarketcap.com/currencies/polygon/#News",
         "supported_wallets": "Ledger, Trust Wallet, MetaMask, Binance Chain Wallet, SolFlare, Backpack, Phantom"
-    },"technical_info": {
+      },
+      "technical_info": {
       "blockchain": "Ethereum Virtual Machine (EVM) compatible",
       "consensus_algorithm": "Proof of Stake (PoS)",
       "mainnet_launch_date": "April 30, 2018"
       },
-    "partnerships": [
+      "partnerships": [
       {
         "name": "Chainlink",
         "website": "https://chain.link/"
