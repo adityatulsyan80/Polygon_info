@@ -10,13 +10,32 @@
       "social_media": {
         "twitter" : "https://twitter.com/0xPolygon",
         "telegram": "https://t.me/polygonofficial",
-        "discord" : "https://discord.com/invite/XvpHAxZ"
+        "discord": "https://discord.com/invite/XvpHAxZ"
       },
       "coinmarketcap": "https://coinmarketcap.com/currencies/polygon/",
       "profile_info": {
         "price_info":"https://coinmarketcap.com/currencies/polygon/#Markets",
         "news_info" :"https://coinmarketcap.com/currencies/polygon/#News",
         "supported_wallets": "Ledger, Trust Wallet, MetaMask, Binance Chain Wallet, SolFlare, Backpack, Phantom"
+    },"technical_info": {
+      "blockchain": "Ethereum Virtual Machine (EVM) compatible",
+      "consensus_algorithm": "Proof of Stake (PoS)",
+      "mainnet_launch_date": "April 30, 2018"
+      },
+    "partnerships": [
+      {
+        "name": "Chainlink",
+        "website": "https://chain.link/"
+      },
+      {
+        "name": "Aave",
+        "website": "https://aave.com/"
+      }
+    ],
+    "roadmap": "Check the official website for the latest roadmap information.",
+    "community_stats": {
+      "reddit_subscribers": "200,000",
+      "telegram_members": "150,000"
     }
   }
 }
