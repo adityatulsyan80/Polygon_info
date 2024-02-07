@@ -37,6 +37,22 @@
     "community_stats": {
       "reddit_subscribers": "200,000",
       "telegram_members": "150,000"
-    }
+    },
+    "team": [
+      {
+        "name": "John Doe",
+        "role": "CEO",
+        "twitter": "https://twitter.com/johndoe"
+      },
+      {
+        "name": "Jane Smith",
+        "role": "CTO",
+        "twitter": "https://twitter.com/janesmith"
+      }
+    ],
+    "achievements": [
+      "Ranked among the top 20 cryptocurrencies by market cap.",
+      "Integrated with major DeFi projects like Aave and Uniswap."
+    ]
   }
 }
