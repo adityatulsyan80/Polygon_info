@@ -53,6 +53,28 @@
     "achievements": [
       "Ranked among the top 20 cryptocurrencies by market cap.",
       "Integrated with major DeFi projects like Aave and Uniswap."
+    ],
+    "security_audit": {
+      "date": "2022-05-01",
+      "audit_company": "Quantstamp",
+      "audit_report": "Link to the audit report"
+    },
+    "community_grants_program": {
+      "name": "Polygon Grant Program",
+      "description": "Supporting developers and projects building on Polygon.",
+      "website": "https://grants.polygon.technology/"
+    },
+    "recent_updates": [
+      {
+        "date": "2023-01-15",
+        "title": "Integration with Layer 2 Scaling Solution",
+        "description": "Polygon successfully integrates with a new Layer 2 scaling solution, enhancing transaction throughput."
+      },
+      {
+        "date": "2023-03-10",
+        "title": "Partnership with Major Exchange",
+        "description": "Polygon announces a strategic partnership with a leading cryptocurrency exchange for increased liquidity."
+      }
     ]
   }
 }
